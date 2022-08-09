@@ -1,0 +1,6 @@
+print(type("Al-fatihi"))
+print(type(12))
+print(type(12.2))
+print(type(True))
+print(type(False))
+print(type(complex(2,8)))
